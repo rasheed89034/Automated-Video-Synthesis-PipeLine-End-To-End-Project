@@ -1,0 +1,5 @@
+streamlit ## frontend
+google-generativeai ## to get viral video
+moviepy ## for video editing
+yt-dlp ## for downloading video
+openai-whisper ## for transcribing video
